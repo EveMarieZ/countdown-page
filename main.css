@@ -1,0 +1,14 @@
+/***** STYLES *****/
+
+html {
+    font-size: 1rem;
+    color: #000;
+    line-height: 1.4;
+}
+
+
+#demo p {
+    font-size: 5rem;
+    margin: auto;
+}
+
